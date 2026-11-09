@@ -1,0 +1,11 @@
+# Generated decoys — never commit
+decoy-home/
+.advsim-manifest-*
+**/.advsim-manifest-*
+
+# Local scratch
+*.bak
+*.bak.advsim
+.DS_Store
+*.swp
+*~
